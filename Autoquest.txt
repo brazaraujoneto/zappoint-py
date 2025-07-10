@@ -1,0 +1,2 @@
+O que a biblioteca pywhatkit faz?
+  > pywhatkit serve para automatizar diversas tarefas no Python, sendo muito usada para o envio de mensagens no WhatsApp, tanto de forma imediata quanto agendada.
