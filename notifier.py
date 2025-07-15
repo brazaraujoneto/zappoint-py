@@ -1,0 +1,1 @@
+# Responsável por enviar mensagens no WhatsApp.

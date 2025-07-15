@@ -1,0 +1,1 @@
+# Junta tudo: agenda as tarefas diárias, dispara a notificação e registra no banco.

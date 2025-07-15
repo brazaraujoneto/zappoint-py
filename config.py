@@ -1,0 +1,1 @@
+# Define horários, mensagens e número do WhatsApp.
